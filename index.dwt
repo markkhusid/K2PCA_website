@@ -4,7 +4,7 @@
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <!-- #BeginEditable "doctitle" -->
-<title>PCARA Club Officers</title>
+<title>Untitled 1</title>
 <!-- #EndEditable -->
 <style type="text/css">
 .auto-style2 {
@@ -19,25 +19,19 @@
 	border: 3px solid #DC9E0E;
 	background-color: #000000;
 }
-.auto-style6 {
-	border: 2px solid #000000;
-}
 .auto-style9 {
+	border-width: 0;
+	text-align: center;
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: medium;
-	border: 1px solid #000000;
-}
-.auto-style11 {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: medium;
-	border: 1px solid #000000;
 	font-weight: bold;
-}
-.auto-style12 {
 	font-size: xx-large;
+}
+.auto-style10 {
+	border-width: 0;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
 	font-weight: bold;
-	border: 3px solid #DC9E0E;
-	padding: 1px;
+	font-size: large;
 }
 </style>
 <script type="text/javascript">
@@ -94,99 +88,37 @@ function FP_getObjectByID(id,o) {//v1.0
 		<br />
 		</td>
 		<td class="auto-style2" valign="top"><!-- #BeginEditable "Body" --><!-- #EndEditable -->
+		<span class="auto-style9">WELCOME TO P.C.A.R.A.<br />
+		</span><span class="auto-style10">Patriots Coalition Amateur Radio 
+		Association<br />
 		<br />
-		<span class="auto-style12">P.C.A.R.A. Club Officers</span><br />
-				<table class="auto-style6" style="width: 750px" align="center">
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						President</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>
-						Steve Gantman - AC2UR</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						Vice President</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>
-						Robert Dugan - KD2KOR</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						Secretary</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>
-						Kevin Maehrer - KC3IBK</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						Treasurer</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>
-						Joshua Spinler - KD2KHD</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						Trustee</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>
-						Jeff Snyder - KD2KOM</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						Training Coordinator</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>Ray 
-						Feness - K2RMF</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						Eastern Coordinator</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>
-						Harold Cheetham - K2HJC</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						Central Coordinator</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>
-						Jeremy Hargus - KD9IXN</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						Mountain Coordinator</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>
-						***Vacant***</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						Pacific Coordinator</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>
-						Randy Hanson - N7WUZ</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						Executive Committee Member</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>Gil 
-						McGee - W5GIL</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						Executive Committee Member</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>
-						***Vacant***</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						Executive Committee Member (Previous Pres.)</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>N/A</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style9" style="width: 416px"><strong>
-						International Representative</strong></td>
-						<td class="auto-style9" style="width: 374px"><strong>
-						Mark Bannon - EI6HPB</strong></td>
-					</tr>
-					<tr>
-						<td class="auto-style11" style="width: 416px">WEB Master</td>
-						<td class="auto-style11" style="width: 374px">Mark 
-						Khusid - AC2LH</td>
-					</tr>
-				</table>
-		</td>
+		<strong style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+		Welcome to the internet home of the Patriots Coalition Amateur Radio 
+		Association (PCARA).<br />
+		<br />
+&nbsp;PCARA is a local, state, regional and national effort to unify and 
+		colaborate our common goals to form a standardized comm plan for us all. 
+		As a coalition, we have all joined forces in effort to foster a national 
+		amateur radio communications network of dedicated Ham Radio 
+		operators.&nbsp;The coalition is representative of Ham operators from all 
+		walks of Patriotic America, and we welcome all who share our vision and 
+		goal. <br />
+		<br />
+		We are a coalition of several different groups and clubs, Civilian to 
+		Active and Veteran Service members,&nbsp; Law enforcement and Publc 
+		service. We range from Rural to Urban and all places in between. We 
+		endevour to create a national weekly net on several platforms, and to 
+		eventually include a vast network of repeaters and relay stations 
+		providing interoperability on all Ham major bands, as well as CB, MURS, 
+		and FRS/GRMS and covering all major modes (CW (Morse), Phone (Voice), 
+		and digital modes as applicable according to FCC Regulations and 
+		Voluntary Band Plans.&nbsp; The intent is to create a national ECOMMS Co-op 
+		that will suffer minimal to no impact from even the worst conditions and 
+		remain operational, even in a grid down scenerio.</strong><strong style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><br />
+		<br />
+		All rights reserved 2018 k2pca.org&nbsp;&nbsp;
+		<a href="mailto:pcara.usa@gmail.com?subject=Web page question">
+		pcara.usa@gmail.com</a></strong></span></td>
 	</tr>
 </table>
 
