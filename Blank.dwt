@@ -2,6 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+<META content="Patriots Coalition Amateur Radio Association, PCARA, PCARA ham radio, PCARA amateur radio" name="keywords" />
+<META content="Patriots Coalition Amateur Radio Association, PCARA. Ham Radio Club" name="description" />
+<META content="index" name="robots" />
+<META content="general" name="rating" />
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 <!-- #BeginEditable "doctitle" -->
 <title>Untitled 1</title>
@@ -44,31 +50,36 @@ function FP_getObjectByID(id,o) {//v1.0
 }
 // -->
 </script>
-</head>
+</html></head><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
 
 <body onload="FP_preloadImgs(/*url*/'button11.gif',/*url*/'button12.gif',/*url*/'button1A.gif',/*url*/'button1B.gif',/*url*/'button1D.gif',/*url*/'button1E.gif',/*url*/'button20.gif',/*url*/'button21.gif',/*url*/'button26.gif',/*url*/'button27.gif',/*url*/'button38.gif',/*url*/'button39.gif',/*url*/'button3B.gif',/*url*/'button3C.gif',/*url*/'button41.gif',/*url*/'button42.gif')" style="background-image: url('PCARA_bkgd.jpg')">
 
 <table class="auto-style4" style="width: 100%; height: 292px">
+	<tbody>
 	<tr>
 		<td class="auto-style5" style="height: 189px; width: 192px">
 		<img alt="PCARA" height="170" longdesc="PCARA Logo" src="PCARA_Logo.gif" width="172" /></td>
 		<td class="auto-style5" style="height: 189px">
-		<img alt="PCARA Banner" height="181" longdesc="PCARA Banner" src="PCARA_Banner.gif" width="589" /></td>
+		<img alt="PCARA Banner" height="170" longdesc="PCARA Banner" src="PCARA_Banner.gif" width="589" /></td>
 	</tr>
 	<tr>
 		<td class="auto-style2" style="width: 192px" valign="top"><br />
-		<a href="Index.html">
+		<a href="index.html">
 		<img id="img1" alt="HOME" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'button27.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'button25.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'button26.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'button26.gif')" src="button25.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 12; fp-transparent: 1" fp-title="HOME" --></a><br />
-		<a href="Organization.html">
-		<img id="img2" alt="ORGANIZATION" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img2',/*url*/'button12.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img2',/*url*/'button10.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img2',/*url*/'button11.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img2',/*url*/'button11.gif')" src="button10.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 12; fp-transparent: 1" fp-title="ORGANIZATION" --></a><br />
+		<a href="about_us.html">
+		<img id="img2" alt="ABOUT US" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img2',/*url*/'button12.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img2',/*url*/'button10.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img2',/*url*/'button11.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img2',/*url*/'button11.gif')" src="button10.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 12; fp-transparent: 1" fp-title="ABOUT US" --></a><br />
 		<a href="officers.html">
 		<img id="img3" alt="OFFICERS" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img3',/*url*/'button1B.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img3',/*url*/'button19.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img3',/*url*/'button1A.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img3',/*url*/'button1A.gif')" src="button19.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 12; fp-transparent: 1" fp-title="OFFICERS" --></a><br />
-		<img id="img4" alt="CLUB NEWS" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img4',/*url*/'button1E.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img4',/*url*/'button1C.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img4',/*url*/'button1D.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img4',/*url*/'button1D.gif')" src="button1C.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 12; fp-transparent: 1" fp-title="CLUB NEWS" --><br />
-		<a href="Net_Calendar.html">
+		<a href="pcaranews.html">
+		<img id="img4" alt="CLUB NEWS" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img4',/*url*/'button1E.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img4',/*url*/'button1C.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img4',/*url*/'button1D.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img4',/*url*/'button1D.gif')" src="button1C.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 12; fp-transparent: 1" fp-title="CLUB NEWS" --></a><br />
+		<a href="net_calendar.html">
 		<img id="img5" alt="NET CALENDAR" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img5',/*url*/'button21.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img5',/*url*/'button1F.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img5',/*url*/'button20.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img5',/*url*/'button20.gif')" src="button1F.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 12; fp-transparent: 1" fp-title="NET CALENDAR" --></a><br />
-		<img id="img6" alt="HOW TO JOIN" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img6',/*url*/'button39.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img6',/*url*/'button37.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img6',/*url*/'button38.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img6',/*url*/'button38.gif')" src="button37.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 12; fp-transparent: 1" fp-title="HOW TO JOIN" --><br />
-		<img id="img7" alt="GETTING LICENSED" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img7',/*url*/'button3C.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img7',/*url*/'button3A.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img7',/*url*/'button3B.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img7',/*url*/'button3B.gif')" src="button3A.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-transparent: 1" fp-title="GETTING LICENSED" --><br />
-		<img id="img8" alt="LINKS" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img8',/*url*/'button42.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img8',/*url*/'button40.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img8',/*url*/'button41.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img8',/*url*/'button41.gif')" src="button40.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 12; fp-transparent: 1" fp-title="LINKS" --><br />
+		<a href="joinus.html">
+		<img id="img6" alt="HOW TO JOIN" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img6',/*url*/'button39.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img6',/*url*/'button37.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img6',/*url*/'button38.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img6',/*url*/'button38.gif')" src="button37.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 12; fp-transparent: 1" fp-title="HOW TO JOIN" --></a><br />
+		<a href="license.html">
+		<img id="img7" alt="GETTING LICENSED" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img7',/*url*/'button3C.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img7',/*url*/'button3A.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img7',/*url*/'button3B.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img7',/*url*/'button3B.gif')" src="button3A.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-transparent: 1" fp-title="GETTING LICENSED" --></a><br />
+		<a href="links.html">
+		<img id="img8" alt="LINKS" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img8',/*url*/'button42.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img8',/*url*/'button40.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img8',/*url*/'button41.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img8',/*url*/'button41.gif')" src="button40.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 12; fp-transparent: 1" fp-title="LINKS" --></a><br />
 		<br />
 		<br />
 		<br />
@@ -76,8 +87,11 @@ function FP_getObjectByID(id,o) {//v1.0
 		<td class="auto-style2" valign="top"><!-- #BeginEditable "Body" --><!-- #EndEditable -->
 		</td>
 	</tr>
+</tbody>
 </table>
 
 </body>
+
+</html>
 
 </html>
