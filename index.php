@@ -151,11 +151,13 @@ function FP_getObjectByID(id,o) {//v1.0
         </td>
 				
         <!-- MK Added hamqsl propagation data approved by SG 20181119 -->
-        <td>
-            <center>
-                <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
-                <img src="http://www.hamqsl.com/solarvhf.php"></a>
-            </center>
+        <td class="auto-style11">
+            <span class="auto-style10">
+                <center>
+                    <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
+                    <img src="http://www.hamqsl.com/solarvhf.php"></a>
+                </center>
+            </span>
         </td>
         <!-- end MK additions 20181119 -->
         
