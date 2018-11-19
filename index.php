@@ -51,6 +51,13 @@
 	background-color: #000000;
 }
 </style>
+
+<style>
+	td img{
+
+	}
+</style>
+
 <script type="text/javascript">
 <!--
 function FP_swapImg() {//v1.0
@@ -82,16 +89,16 @@ function FP_getObjectByID(id,o) {//v1.0
 <table class="auto-style4" style="width: 100%; height: 292px">
 	<tbody>
 	<tr>
-		<td class="auto-style5" style="height: 189px; width: 192px">
+		<td class="auto-style2" style="height: 189px; width: 192px">
 		<img alt="PCARA" height="170" longdesc="PCARA Logo" src="PCARA_Logo.gif" width="172" /></td>
-		
-		<!--<td class="auto-style5" style="height: 189px">
-		<img alt="PCARA Banner" height="170" longdesc="PCARA Banner" src="PCARA_Banner.gif" width="589" /></td>-->
-		
-		<td class="auto-style5" style="height: 189px" colspan="2">
-		<img style="display: block;" width="100%" height="100%" alt="PCARA Banner" longdesc="PCARA Banner" src="PCARA_Banner.gif"/></td>
-		
+
+		<td class="auto-style2" style="height: 189px">
+		<img alt="PCARA Banner" height="170" longdesc="PCARA Banner" src="PCARA_Banner.gif" width="589" /></td>
+
+		<td class="auto-style2" style="height: 189px; width: 192px">
+		<img alt="PCARA" height="170" longdesc="PCARA Logo" src="PCARA_Logo.gif" width="172" /></td>
 	</tr>
+
 	<tr>
 		<td class="auto-style2" style="width: 192px" valign="top"><br />
 		<a href="index.php">
@@ -115,46 +122,46 @@ function FP_getObjectByID(id,o) {//v1.0
 		<br />
 		</td>
 		<td class="auto-style2" valign="top"><!-- #BeginEditable "Body" -->
-		
+
 		<table style="width: 100%">
-			
+
 			<tr>
 				<td>
                     <span class="auto-style9">WELCOME TO P.C.A.R.A.<br />
-                    </span><span class="auto-style10">Patriots Coalition Amateur Radio 
+                    </span><span class="auto-style10">Patriots Coalition Amateur Radio
                     Association</span>
                 </td>
 			</tr>
-			
+
 			<tr>
 				<td class="auto-style11">
                     <span class="auto-style10">
                         <strong style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                             <br />
-                            Welcome to the internet home of the Patriots Coalition Amateur Radio 
+                            Welcome to the internet home of the Patriots Coalition Amateur Radio
                             Association (PCARA). <b>MK Version</b><br />
                             <br />
-                            &nbsp;PCARA is a local, state, regional and national effort to unify and 
-                            colaborate our common goals to form a standardized comm plan for us all. 
-                            As a coalition, we have all joined forces in effort to foster a national 
-                            amateur radio communications network of dedicated Ham Radio 
-                            operators.&nbsp;The coalition is representative of Ham operators from all 
-                            walks of Patriotic America, and we welcome all who share our vision and 
+                            &nbsp;PCARA is a local, state, regional and national effort to unify and
+                            colaborate our common goals to form a standardized comm plan for us all.
+                            As a coalition, we have all joined forces in effort to foster a national
+                            amateur radio communications network of dedicated Ham Radio
+                            operators.&nbsp;The coalition is representative of Ham operators from all
+                            walks of Patriotic America, and we welcome all who share our vision and
                             goal. <br />
                             <br />
-                            We are a coalition of several different groups and clubs, Civilian to 
-                            Active and Veteran Service members,&nbsp; Law enforcement and Publc 
-                            service. We range from Rural to Urban and all places in between. We 
-                            endevour to create a national weekly net on several platforms, and to 
-                            eventually include a vast network of repeaters and relay stations 
-                            providing interoperability on all Ham major bands, as well as CB, MURS, 
-                            and FRS/GRMS and covering all major modes (CW (Morse), Phone (Voice), 
-                            and digital modes as applicable according to FCC Regulations and 
-                            Voluntary Band Plans.&nbsp; The intent is to create a national ECOMMS Co-op 
-                            that will suffer minimal to no impact from even the worst conditions and 
+                            We are a coalition of several different groups and clubs, Civilian to
+                            Active and Veteran Service members,&nbsp; Law enforcement and Publc
+                            service. We range from Rural to Urban and all places in between. We
+                            endevour to create a national weekly net on several platforms, and to
+                            eventually include a vast network of repeaters and relay stations
+                            providing interoperability on all Ham major bands, as well as CB, MURS,
+                            and FRS/GRMS and covering all major modes (CW (Morse), Phone (Voice),
+                            and digital modes as applicable according to FCC Regulations and
+                            Voluntary Band Plans.&nbsp; The intent is to create a national ECOMMS Co-op
+                            that will suffer minimal to no impact from even the worst conditions and
                             remain operational, even in a grid down scenerio.
                         </strong>
-                    
+
                         <strong style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                             <br /><br />
                             All rights reserved 2018 k2pca.org&nbsp;&nbsp;
@@ -163,15 +170,15 @@ function FP_getObjectByID(id,o) {//v1.0
                         </strong>
                     </span>
                 </td>
-        
-            
-        
+
+
+
         </tr>
-        
+
     </table>
 		<!-- #EndEditable -->
     </td>
-    
+
             <!-- MK Added hamqsl propagation data approved by SG 20181119 -->
             <td class="auto-style5" style="width: 192px" valign="top">
                 <span class="auto-style10">
@@ -182,7 +189,7 @@ function FP_getObjectByID(id,o) {//v1.0
                 </span>
             </td>
             <!-- end MK additions 20181119 -->
-    
+
 	</tr>
     </tbody>
 </table>
