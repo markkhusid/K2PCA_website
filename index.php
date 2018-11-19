@@ -149,6 +149,16 @@ function FP_getObjectByID(id,o) {//v1.0
 		pcara.usa@outlook.com</a><br />
 		</strong></span>
 				</td>
+				
+        <!-- MK Added hamqsl propagation data approved by SG 20181119 -->
+        <td>
+            <center>
+                <a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!">
+                <img src="http://www.hamqsl.com/solarvhf.php"></a>
+            </center>
+        </td>
+        <!-- end MK additions 20181119 -->
+        
 			</tr>
 		</table>
 		<!-- #EndEditable -->
