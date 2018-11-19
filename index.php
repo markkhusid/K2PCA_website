@@ -111,12 +111,15 @@ function FP_getObjectByID(id,o) {//v1.0
 		</td>
 		<td class="auto-style2" valign="top"><!-- #BeginEditable "Body" -->
 		<table style="width: 100%">
+			
 			<tr>
-				<td>
-		<span class="auto-style9">WELCOME TO P.C.A.R.A.<br />
-		</span><span class="auto-style10">Patriots Coalition Amateur Radio 
-		Association</span></td>
+				<td width ="70%">
+                    <span class="auto-style9">WELCOME TO P.C.A.R.A.<br />
+                    </span><span class="auto-style10">Patriots Coalition Amateur Radio 
+                    Association</span>
+                </td>
 			</tr>
+			
 			<tr>
 				<td class="auto-style11"><span class="auto-style10">
 		<strong style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
