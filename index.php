@@ -149,8 +149,8 @@ function FP_getObjectByID(id,o) {//v1.0
 		pcara.usa@outlook.com</a><br />
 		</strong></span>
         </td>
-				
-        <!-- MK Added hamqsl propagation data approved by SG 20181119 -->
+			</tr>
+
         <td class="auto-style5">
             <span class="auto-style10">
                 <center>
@@ -161,7 +161,6 @@ function FP_getObjectByID(id,o) {//v1.0
         </td>
         <!-- end MK additions 20181119 -->
         
-			</tr>
 		</table>
 		<!-- #EndEditable -->
 		</td>
