@@ -139,7 +139,7 @@ function FP_getObjectByID(id,o) {//v1.0
                         <strong style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
                             <br />
                             Welcome to the internet home of the Patriots Coalition Amateur Radio
-                            Association (PCARA). <b>MK Version</b><br />
+                            Association (PCARA).<br />
                             <br />
                             &nbsp;PCARA is a local, state, regional and national effort to unify and
                             colaborate our common goals to form a standardized comm plan for us all.
