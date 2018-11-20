@@ -96,7 +96,7 @@ function FP_getObjectByID(id,o) {//v1.0
 		<img alt="PCARA Banner" height="170" longdesc="PCARA Banner" src="PCARA_Banner.gif" width="589" /></td>
 
 		<td class="auto-style5" style="height: 189px; width: 192px">
-		<!-- <img alt="PCARA" height="170" longdesc="PCARA Logo" src="PCARA_Logo.gif" width="172" /></td> -->
+		<img alt="PCARA" height="170" longdesc="PCARA Logo" src="PCARA_Logo.gif" width="172" /></td>
 	</tr>
 
 	<tr>
