@@ -1,8 +1,6 @@
 ﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 
-<!-- #BeginTemplate "Blank.dwt" -->
-
 <head>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
@@ -11,7 +9,6 @@
 <META content="index" name="robots" />
 <META content="general" name="rating" />
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<!-- #BeginEditable "doctitle" -->
 <title>WELCOME TO PCARA</title>
 <style type="text/css">
 
@@ -35,7 +32,6 @@
 	text-align: center;
 }
 </style>
-<!-- #EndEditable -->
 <style type="text/css">
 
 .auto-style2 {
@@ -115,13 +111,14 @@ function FP_getObjectByID(id,o) {//v1.0
 		<img id="img6" alt="HOW TO JOIN" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img6',/*url*/'button39.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img6',/*url*/'button37.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img6',/*url*/'button38.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img6',/*url*/'button38.gif')" src="button37.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 12; fp-transparent: 1" fp-title="HOW TO JOIN" --></a><br />
 		<a href="license.html">
 		<img id="img7" alt="GETTING LICENSED" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img7',/*url*/'button3C.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img7',/*url*/'button3A.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img7',/*url*/'button3B.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img7',/*url*/'button3B.gif')" src="button3A.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-transparent: 1" fp-title="GETTING LICENSED" --></a><br />
-		<a href="links.html">
+		<a href="bulletin_board.html">
+		<img id="img9" alt="BULLETIN BOARD" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img9',/*url*/'button8.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img9',/*url*/'button6.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img9',/*url*/'button7.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img9',/*url*/'button7.gif')" src="button6.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 11; fp-transparent: 1" fp-title="BULLETIN BOARD" --></a><br /><a href="links.html">
 		<img id="img8" alt="LINKS" height="30" onmousedown="FP_swapImg(1,0,/*id*/'img8',/*url*/'button42.gif')" onmouseout="FP_swapImg(0,0,/*id*/'img8',/*url*/'button40.gif')" onmouseover="FP_swapImg(1,0,/*id*/'img8',/*url*/'button41.gif')" onmouseup="FP_swapImg(0,0,/*id*/'img8',/*url*/'button41.gif')" src="button40.gif" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Capsule 4; fp-font: Arial, Helvetica, sans-serif; fp-font-size: 12; fp-transparent: 1" fp-title="LINKS" --></a><br />
 		<br />
 		<br />
 		<br />
 		</td>
-		<td class="auto-style2" valign="top"><!-- #BeginEditable "Body" -->
+		<td class="auto-style2" valign="top">
 
 		<table style="width: 100%">
 
@@ -142,24 +139,28 @@ function FP_getObjectByID(id,o) {//v1.0
                             Association (PCARA).<br />
                             <br />
                             &nbsp;PCARA is a local, state, regional and national effort to unify and
-                            colaborate our common goals to form a standardized comm plan for us all.
+                            collaborate our common goals to form a standardized comm plan for us all.
                             As a coalition, we have all joined forces in effort to foster a national
                             amateur radio communications network of dedicated Ham Radio
                             operators.&nbsp;The coalition is representative of Ham operators from all
                             walks of Patriotic America, and we welcome all who share our vision and
-                            goal. <br />
+                            goal. We also encourage and promote new Hams to get 
+					and continue licensing, and always follow proper radio 
+					etiquette.<br />
                             <br />
                             We are a coalition of several different groups and clubs, Civilian to
-                            Active and Veteran Service members,&nbsp; Law enforcement and Publc
+                            Active and Veteran Service members,&nbsp; Law enforcement and 
+					Public
                             service. We range from Rural to Urban and all places in between. We
-                            endevour to create a national weekly net on several platforms, and to
+                            endeavor to create a national weekly net on several platforms, and to
                             eventually include a vast network of repeaters and relay stations
                             providing interoperability on all Ham major bands, as well as CB, MURS,
                             and FRS/GRMS and covering all major modes (CW (Morse), Phone (Voice),
                             and digital modes as applicable according to FCC Regulations and
                             Voluntary Band Plans.&nbsp; The intent is to create a national ECOMMS Co-op
                             that will suffer minimal to no impact from even the worst conditions and
-                            remain operational, even in a grid down scenerio.
+                            remain operational, during a natural disaster or even in a grid down 
+					scenario.
                         </strong>
 
                         <strong style="color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
@@ -176,7 +177,6 @@ function FP_getObjectByID(id,o) {//v1.0
         </tr>
 
     </table>
-		<!-- #EndEditable -->
     </td>
 
             <!-- MK Added hamqsl propagation data approved by SG 20181119 -->
@@ -203,7 +203,5 @@ function FP_getObjectByID(id,o) {//v1.0
 </body>
 
 </html>
-
-<!-- #EndTemplate -->
 
 </html>
