@@ -195,11 +195,10 @@ function FP_getObjectByID(id,o) {//v1.0
 </table>
 
 <hr>
+
 <?php
 	include ("counter.php");
-?>
-
-
+?> 
 
 </body>
 
