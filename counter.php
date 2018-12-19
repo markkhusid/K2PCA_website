@@ -32,7 +32,7 @@
 
 	//echo "The size of returned_record is ".sizeof($returned_record)."<br>";
 	//echo "The contents of returned_record is: <br>";
-	var_dump($returned_record);
+	//var_dump($returned_record);
 	//echo "<br><br><br>";
 
 	// Open files for reading and writing

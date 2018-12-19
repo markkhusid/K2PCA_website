@@ -155,7 +155,7 @@ function FP_getObjectByID(id,o) {//v1.0
                             endeavor to create a national weekly net on several platforms, and to
                             eventually include a vast network of repeaters and relay stations
                             providing interoperability on all Ham major bands, as well as CB, MURS,
-                            and FRS/GRMS and covering all major modes (CW (Morse), Phone (Voice),
+                            and FRS/GRMS and covering all major modes CW (Morse), Phone (Voice),
                             and digital modes as applicable according to FCC Regulations and
                             Voluntary Band Plans.&nbsp; The intent is to create a national ECOMMS Co-op
                             that will suffer minimal to no impact from even the worst conditions and
@@ -195,10 +195,11 @@ function FP_getObjectByID(id,o) {//v1.0
 </table>
 
 <hr>
-
 <?php
 	include ("counter.php");
-?> 
+?>
+
+
 
 </body>
 
