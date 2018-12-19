@@ -1,3 +1,11 @@
 hitcounter.txt
+.counter.php.swp
+counter.php.save
+counter.php_backup
+counter.php_backup2
+counter.php_not_working
+counter_exec.php
+counter_no_hash.php
+*.sq3
 total_hit_counter.txt
 unique_hit_counter.txt
